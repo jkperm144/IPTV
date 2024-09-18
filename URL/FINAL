@@ -52,7 +52,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:-1 group-title="Indonesia Channels" tvg-id="IDX.id" tvg-logo="https://raw.githubusercontent.com/jkperm144/logo-iptv/main/IDX.jfif",IDX
+#EXTINF:-1 group-title="Indonesia Channels" tvg-id="IDX.id" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/IDX.jfif",IDX
 https://cempedak-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 #EXTINF:-1 group-title="Indonesia Channels"  tvg-logo="https://images.indihometv.com/logo_insert_small1.png?v=2.0.0.13",INSERT
@@ -136,7 +136,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|R
  group-title="Indonesia Channels", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://raw.githubusercontent.com/jkperm144/logo/refs/heads/main/NUSANTARA%20TV.jfif" group-title="Indonesia Channels", Nusantara TV
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/NUSANTARA%20TV.jfif" group-title="Indonesia Channels", Nusantara TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
@@ -207,7 +207,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1712984211_b878000_s
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://raw.githubusercontent.com/jkperm144/logo/refs/heads/main/INDOSIANA%20TV.jfif" group-title="Indonesia Channels",Indonesiana TV
+#EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/INDOSIANA%20TV.jfif" group-title="Indonesia Channels",Indonesiana TV
 https://op-group1-swiftservehd-1.dens.tv/h/h292/S1/mnf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" group-title="Indonesia Channels",Garuda TV
@@ -229,10 +229,10 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?check
 
 
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/jkperm144/logo-iptv/main/IN%20THE%20KITCHEN.jfif" group-title="Entertainment & Lifestyle", In The Kitchen
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/IN%20THE%20KITCHEN.jfif" group-title="Entertainment & Lifestyle", In The Kitchen
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/jkperm144/logo-iptv/main/COOKING%20PANDA.jfif" group-title="Entertainment & Lifestyle",Cooking Panda
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/COOKING%20PANDA.jfif" group-title="Entertainment & Lifestyle",Cooking Panda
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://go2travel.tv/wp-content/uploads/2022/11/go2-logo.png" group-title="Entertainment & Lifestyle",Go2Travel (1080p)
@@ -248,7 +248,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="Lifestyle & Fashion.Id" tvg-logo="https://raw.githubusercontent.com/jkperm144/logo-iptv/main/OKZONETV.jfif" group-title="Entertainment & Lifestyle ",OKZONETV
+#EXTINF:-1 tvg-id="Lifestyle & Fashion.Id" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/OKZONETV.jfif" group-title="Entertainment & Lifestyle ",OKZONETV
 https://cempedak-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -295,10 +295,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
 #EXTINF:-1 group-title="Entertainment & Lifestyle" tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",Hits Now
 https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jkperm144/logo-iptv/main/FASION%20TV.jfif" group-title="Entertainment & Lifestyle",Fashion TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/FASION%20TV.jfif" group-title="Entertainment & Lifestyle",Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_vidio_id_1533_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
 
-#EXTINF:0 tvg-country="UN" tvg-logo="https://raw.githubusercontent.com/jkperm144/logo-iptv/main/IFOOD.jfif" group-title="Entertainment & Lifestyle",Ifood
+#EXTINF:0 tvg-country="UN" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/IFOOD.jfif" group-title="Entertainment & Lifestyle",Ifood
 https://ifood-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/kcmHcSx.png" group-title="Entertainment & Lifestyle",BBC Food
@@ -454,7 +454,7 @@ https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8?c
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
-#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="National Geographic Channel HD - [Channel 460].id" tvg-logo="https://raw.githubusercontent.com/jkperm144/logo/refs/heads/main/OUTDOOR.jfif",Outdoor Channel
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="National Geographic Channel HD - [Channel 460].id" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/OUTDOOR.jfif",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -494,19 +494,19 @@ https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Moz+1Ry6G/pB8b2iGc7v+A", "kid":"YvrpNekcTo2eg1opTqgZCQ" } ], "type":"temporary" }
 https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 
-#EXTINF:0 tvg-country="CH" tvg-logo="https://raw.githubusercontent.com/jkperm144/logo/refs/heads/main/BBC%20TRAVEL.jfif" group-title="Knowledge & Documentary",BBC Travel
+#EXTINF:0 tvg-country="CH" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/BBC%20TRAVEL.jfif" group-title="Knowledge & Documentary",BBC Travel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc830921-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=88187eab-d70d-4b26-a9c4-a5c998b271ff&serverSideAds=false&checkedby:iptvcat.com
 
-#EXTINF:-1 group-title="Knowledge & Documentary" tvg-logo="https://raw.githubusercontent.com/jkperm144/logo/refs/heads/main/DISC%20TURBO.jfif",Discovery Turbo Channel 
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/DISC%20TURBO.jfif",Discovery Turbo Channel 
 https://anutv.xyz/known/discovery_turbo.m3u8
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/QQuPjTD.png" group-title="Knowledge & Documentary",Xplore
 http://xlpore-samsungus.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/jkperm144/logo/refs/heads/main/NATURE%20TIME.jfif" group-title="Knowledge & Documentary",NATURE TIME
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/NATURE%20TIME.png" group-title="Knowledge & Documentary",NATURE TIME
 https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
 
-#EXTINF:0 tvg-country="CA" tvg-logo="https://raw.githubusercontent.com/jkperm144/logo/refs/heads/main/NATURE%20SCAPE.jfif" group-title="Knowledge & Documentary",Naturescape
+#EXTINF:0 tvg-country="CA" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/NATURE%20SCAPE.jfif" group-title="Knowledge & Documentary",Naturescape
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240b7e283aa40008f79f84/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f05-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a5760903-3730-493d-a240-f38538ed67ca&serverSideAds=false&checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/Brry7cZ.png" group-title="Knowledge & Documentary",PBS Nature
@@ -518,10 +518,10 @@ https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
 #EXTINF:-1 tvg-id="GBBB1000005IO" tvg-name="REAL WILD" tvg-logo="https://iili.io/JpsBB8Q.jpg" group-title="Knowledge & Documentary", REAL WILD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jkperm144/logo/refs/heads/main/INFAST.jfif" group-title="Knowledge & Documentary",INFAST
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/INFAST.jfif" group-title="Knowledge & Documentary",INFAST
 https://insighttv-samsung-us.amagi.tv/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jkperm144/logo/refs/heads/main/WILDEARTH.jfif" group-title="Knowledge & Documentary",Wild Earth
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/WILDEARTH.jfif" group-title="Knowledge & Documentary",Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
  
 #EXTINF:-1 tvg-logo="https://img.lovepik.com/photo/50044/4947.jpg_wh300.jpg" group-title="Knowledge & Documentary",TRVL CH
@@ -628,7 +628,7 @@ https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8?c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTINF:-1 group-title="Premium Movies" tvg-id="Galaxy - [Channel 13].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xmlG" tvg-logo="https://raw.githubusercontent.com/jkperm144/logo-iptv/main/GALAXY.jfif", Galaxy
+#EXTINF:-1 group-title="Premium Movies" tvg-id="Galaxy - [Channel 13].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xmlG" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/GALAXY.jfif", Galaxy
 https://cdn09jtedge.indihometv.com/joss/133/galaxy/index.m3u8
 
 #EXTINF:-1 group-title="Premium Movies" tvg-id="Galaxy Premium - [Channel 12].id" tvg-logo="https://images.indihometv.com/logo_galaxypremium_small.png",Galaxy Premium
@@ -644,7 +644,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:-1 tvg-id="HitsMovies.sg" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/jkperm144/logo-iptv/main/hits%20movies.jfif" group-title="Premium Movies",Hits Movies
+#EXTINF:-1 tvg-id="HitsMovies.sg" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/hits%20movies.jfif" group-title="Premium Movies",Hits Movies
 https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -755,14 +755,14 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="K-Plus" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/jkperm144/logo-iptv/main/K%20PLUS.jfif" group-title="Korean Channels",K+
+#EXTINF:-1 tvg-id="K-Plus" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/K%20PLUS.jfif" group-title="Korean Channels",K+
 https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://raw.githubusercontent.com/jkperm144/logo-iptv/main/KBS%20WORLD.jfif" group-title="Korean Channels",KBS WORLD
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/KBS%20WORLD.jfif" group-title="Korean Channels",KBS WORLD
 https://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -807,7 +807,7 @@ https://ssh101-fl.bozztv.com/ssh101/kpoptv/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MUSIC" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jkperm144/logo-iptv/main/MUSIK%20INDIA.jfif", MUSIC INDIA
+#EXTINF:-1 group-title="MUSIC" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/MUSIK%20INDIA.jfif", MUSIC INDIA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 
 
@@ -834,28 +834,28 @@ http://31.42.187.37:25461/watchpad13158/1234/112
 #EXTINF:-1 tvg-id="Astro SuperSport 4 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="Sports",Astro Supersport 4
 http://31.42.187.37:25461/watchpad13158/1234/111
 
-#EXTINF:-1 tvg-name="Eleven Sports 1 Poland" tvg-logo=https://raw.githubusercontent.com/jkperm144/logo-iptv/main/ELEVEN%20SPORT%201.jfif"" group-title="Sports",Eleven Sports 1
+#EXTINF:-1 tvg-name="Eleven Sports 1 Poland" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/ELEVEN%20SPORT%201.jfif" group-title="Sports", Eleven Sports 1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://ddy5.mizhls.ru/ddy5/premium71/index.m3u8
-#EXTINF:-1 tvg-name="Eleven Sports 2 Poland" tvg-logo="https://raw.githubusercontent.com/jkperm144/logo-iptv/main/ELEVEN%20SPORT%202.jfif" group-title="Sports",Eleven Sports 2
+#EXTINF:-1 tvg-name="Eleven Sports 2 Poland" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/ELEVEN%20SPORT%202.jfif" group-title="Sports", Eleven Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://ddy5.mizhls.ru/ddy5/premium72/index.m3u8
-#EXTINF:-1 tvg-name="Eleven Sports 3 Poland" tvg-logo="https://raw.githubusercontent.com/jkperm144/logo-iptv/main/ELEVEN%20SPORT%203.jfif" group-title="Sports",Eleven Sports 3
+#EXTINF:-1 tvg-name="Eleven Sports 3 Poland" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/ELEVEN%20SPORT%203.jfif" group-title="Sports", Eleven Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://ddy6.mizhls.ru/ddy6/premium428/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jkperm144/logo-iptv/main/SS%20FOOTBALL.jfif" group-title="Sports",SuperSport Football
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/SS%20FOOTBALL.jfif" group-title="Sports",SuperSport Football
 http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14960&extension=ts
  
 http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14956&extension=ts
  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jkperm144/logo-iptv/main/SS%20PREMIER.jfif" group-title="Sports",SuperSport Premier League
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/SS%20PREMIER.png" group-title="Sports",SuperSport Premier League
 http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14955&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jkperm144/logo-iptv/main/SS%20MAXIMO.jfif" group-title="Sports",SuperSport MaXimo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/SS%20MAXIMO.jfif" group-title="Sports",SuperSport MaXimo
 http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18534&extension=ts
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -867,13 +867,13 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 Android
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-#EXTINF:-1 tvg-id="SPOTV - [Channel 307].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/jkperm144/logo-iptv/main/SPOTV.jfif" group-title="Sports",SpoTV
+#EXTINF:-1 tvg-id="SPOTV - [Channel 307].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/SPOTV.jfif" group-title="Sports",SpoTV
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 Android
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/jkperm144/logo-iptv/main/SPOTV%202.jfif" group-title="Sports",SpoTV 2
+#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/SPOTV%202.jfif" group-title="Sports",SpoTV 2
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 
@@ -920,7 +920,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/Australia
 #KODIPROP:inputstream.adaptive.license_key=59b86c4bc0dc5de64bdfafe5152cc8f1:014e41ad9ec2997fe29d3c3bc372491f
 https://dsgtq5sngxkde.cloudfront.net/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:-1 tvg-name="Bloomberg" tvg-id="Bloomberg - [Channel 338].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/jkperm144/logo-iptv/main/BLOOMBERG.jfif" group-title="News",Bloomberg
+#EXTINF:-1 tvg-name="Bloomberg" tvg-id="Bloomberg - [Channel 338].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/BLOOMBERG.jfif" group-title="News",Bloomberg
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 Android
 #KODIPROP:inputstream.adaptive.license_key=272401a5b200375e49a4712cf39f369c:39d7bc2faf1f13b8a2bb106b617e604a
