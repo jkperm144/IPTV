@@ -388,7 +388,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s20/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensKnowledge
 
-#EXTINF:-1 group-title="Knowledge & Documentary" tvg-logo="https://github.com/jkperm144/logo/blob/main/INVESTIGATION%20DISCOVERY.jpg", Investigation Discovery
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-logo="https://raw.githubusercontent.com/jkperm144/logo/refs/heads/main/INVESTIGATION%20DISCOVERY.jpg", Investigation Discovery
 https://anutv.xyz/known/investigation_discovery.m3u8
 
 #EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Discovery_life_logo.png",Discovery Life
