@@ -388,17 +388,11 @@ http://op-group1-swiftservesd-1.dens.tv/s/s20/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensKnowledge
 
-#EXTINF:-1 group-title="Knowledge & Documentary" tvg-logo="https://raw.githubusercontent.com/jkperm144/logo/refs/heads/main/INVESTIGATION%20DISCOVERY.jfif",Investigation Discovery
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-logo="https://github.com/jkperm144/logo/blob/main/INVESTIGATION%20DISCOVERY.jpg", Investigation Discovery
 https://anutv.xyz/known/investigation_discovery.m3u8
 
 #EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Discovery_life_logo.png",Discovery Life
 http://cord-cutter.net:8080/live/95549031/69361122/9861.ts
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
-#EXTINF:-1 tvg-id="BBC Earth HD - [Channel 461].id" tvg-logo="https://raw.githubusercontent.com/jkperm144/logo/refs/heads/main/BBC%20EARTH.jfif" group-title="Knowledge & Documentary",BBC Earth
-https://cempedak-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #EXTINF:-1 group-title="Knowledge & Documentary"  tvg-logo="https://images.indihometv.com/logo_techstorm_ver1.png",TECHSTORM
 https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd
@@ -489,9 +483,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 
 #EXTINF:0 tvg-country="CH" tvg-logo="https://raw.githubusercontent.com/jkperm144/logo/refs/heads/main/BBC%20TRAVEL.jfif" group-title="Knowledge & Documentary",BBC Travel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc830921-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=88187eab-d70d-4b26-a9c4-a5c998b271ff&serverSideAds=false&checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="https://raw.githubusercontent.com/jkperm144/logo/refs/heads/main/BBC%20EARTH.jfif" group-title="Knowledge & Documentary",BBC Earth
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce98-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=73fe2b3e-3885-4bd2-874c-cc5f2153e555&serverSideAds=false&checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="Knowledge & Documentary" tvg-logo="https://raw.githubusercontent.com/jkperm144/logo/refs/heads/main/DISC%20TURBO.jfif",Discovery Turbo Channel 
 https://anutv.xyz/known/discovery_turbo.m3u8
