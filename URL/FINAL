@@ -371,6 +371,9 @@ https://cdn09jtedge.indihometv.com/joss/130/citradangdut/index.m3u8?c
 
 
 
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/00ccc92c700ca1655a4387cc59200d4e650b0aa1.png",Discovery Family
+http://cord-cutter.net:8080/live/95549031/69361122/10538.ts
+
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c154c12b5f8336cc9cbef82fb5cc0ab4:5c365427c75eacf217255effcb5fff3e
