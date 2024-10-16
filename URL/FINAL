@@ -229,15 +229,30 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?check
 
 
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50056951f6d5f5fbaf286cd99c965379:4ec78e3b7d66d1db3815a127f792b604
+#EXTINF:-1 tvg-id="Vision Prime HD - [Channel 1].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/005/50005-SNAPSHOT-l.png" group-title="Entertainment & LifeStyle",Vision Prime
+https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eeba2c9c08078d2a729328dbcd1e002b:19090336609b8f4fee1e7aea837a10d9
+#EXTINF:-1 tvg-id="Okezone TV - [Channel 90].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Okezone_%282007%29.png" group-title="Entertainment & LifeStyle",OkZoneTV
+https://cempedak-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e97187c5c7978ad9fc48943df7ed9045:36af3adb3e7c4edd9286e7412fc5f596
+#EXTINF:-1 tvg-id="Entertainment - [Channel 86].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/entertainment-2.png" group-title="Entertainment & LifeStyle",Entertainment
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/IN%20THE%20KITCHEN.jfif" group-title="Entertainment & Lifestyle", In The Kitchen
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/COOKING%20PANDA.jfif" group-title="Entertainment & Lifestyle",Cooking Panda
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
 
-#EXTINF:0 tvg-country="US" tvg-logo="https://go2travel.tv/wp-content/uploads/2022/11/go2-logo.png" group-title="Entertainment & Lifestyle",Go2Travel (1080p)
+#EXTINF:0 tvg-country="US" tvg-logo="https://go2travel.tv/wp-content/uploads/2022/11/go2-logo.png" group-title="Entertainment & Lifestyle",Go2Travel
 https://go2thls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -247,11 +262,6 @@ https://go2thls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="Infotainment.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/infotainment.png " group-title="Entertainment & Lifestyle ",Infotainment
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="Lifestyle & Fashion.Id" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/OKZONETV.jfif" group-title="Entertainment & Lifestyle ",OKZONETV
-https://cempedak-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
