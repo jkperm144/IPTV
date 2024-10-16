@@ -927,19 +927,7 @@ https://sritv.serv00.net/red/play.mpd?id=6299&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 https://sritv.serv00.net/red/play.mpd?id=6317&type=dash
 
-#EXTINF:-1 tvg-name="Eleven Sports 1 Poland" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/ELEVEN%20SPORT%201.jfif" group-title="Sports", Eleven Sports 1
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-https://ddy5.mizhls.ru/ddy5/premium71/index.m3u8
-#EXTINF:-1 tvg-name="Eleven Sports 2 Poland" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/ELEVEN%20SPORT%202.jfif" group-title="Sports", Eleven Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-https://ddy5.mizhls.ru/ddy5/premium72/index.m3u8
-#EXTINF:-1 tvg-name="Eleven Sports 3 Poland" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/ELEVEN%20SPORT%203.jfif" group-title="Sports", Eleven Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
-https://ddy6.mizhls.ru/ddy6/premium428/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/SS%20FOOTBALL.jfif" group-title="Sports",SuperSport Football
 http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14960&extension=ts
  
