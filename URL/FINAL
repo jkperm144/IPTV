@@ -54,14 +54,19 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1
 
 
 
+#EXTINF:-1 group-title="Indonesia Channels" tvg-id="bnchannel.id" tvg-logo="https://iptv.urfan.web.id/logo/bn.png",BN Channel
+#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch112.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbdbe252e6354b175852d1929c42d848:7a8bb14fcf8fd0b896ab41c29a78aae0
+#EXTINF:-1 group-title="Indonesia Channels" tvg-id="IDX HD - [Channel 436].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX
+https://cempedak-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="Indonesia Channels",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:-1 group-title="Indonesia Channels" tvg-id="IDX.id" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/IDX.jfif",IDX
-https://cempedak-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 #EXTINF:-1 group-title="Indonesia Channels"  tvg-logo="https://images.indihometv.com/logo_insert_small1.png?v=2.0.0.13",INSERT
 https://cdn09jtedge.indihometv.com/joss/130/insert/index.m3u8?c
@@ -229,6 +234,13 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?check
 
 
 
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a17bbb3d95ba22f0fa680bba609340f6:cb682391dc1830d2cec8ca9d4ce681cc
+#EXTINF:-1 tvg-id="Celebrities TV - [Channel 96].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://e7.pngegg.com/pngimages/789/35/png-clipart-logo-celebrity-graphic-design-brand-font-cat-victorious-purple-television.png" group-title="Entertainment & LifeStyle",CelebritiesTV
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50056951f6d5f5fbaf286cd99c965379:4ec78e3b7d66d1db3815a127f792b604
@@ -244,9 +256,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeSt
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e97187c5c7978ad9fc48943df7ed9045:36af3adb3e7c4edd9286e7412fc5f596
-#EXTINF:-1 tvg-id="Entertainment - [Channel 86].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/entertainment-2.png" group-title="Entertainment & LifeStyle",Entertainment
+#EXTINF:-1 tvg-id="Entertainment - [Channel 86].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="ttps://www.mncvision.id/userfiles/image/channel/channel_86.png" group-title="Entertainment & LifeStyle",Entertainment
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
-
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/IN%20THE%20KITCHEN.jfif" group-title="Entertainment & Lifestyle", In The Kitchen
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
@@ -517,9 +528,6 @@ https://anutv.xyz/known/discovery_turbo.m3u8
 
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/QQuPjTD.png" group-title="Knowledge & Documentary",Xplore
 http://xlpore-samsungus.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/NATURE%20TIME.png" group-title="Knowledge & Documentary",NATURE TIME
-https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
 
 #EXTINF:0 tvg-country="CA" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/NATURE%20SCAPE.jfif" group-title="Knowledge & Documentary",Naturescape
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240b7e283aa40008f79f84/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f05-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a5760903-3730-493d-a240-f38538ed67ca&serverSideAds=false&checkedby:iptvcat.com
@@ -835,17 +843,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/IMTV.jfif",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="MusicTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/music.png " group-title="MUSIC ",Music TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bea88ab972e06760a04712cc423d841:4039d607f88f1b1f677e4beb6ee66637
+#EXTINF:-1 tvg-id="Music TV - [Channel 111].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/009/50009-SNAPSHOT-l.png" group-title="Music",Music TV
 https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="KPOP TV" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png " group-title="MUSIC ",KPOP TV
-https://ssh101-fl.bozztv.com/ssh101/kpoptv/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -853,6 +855,8 @@ https://ssh101-fl.bozztv.com/ssh101/kpoptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/MUSIK%20INDIA.jfif", MUSIC INDIA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Kpoptv.KR" tvg-name="KPOPTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBztGbjCkUkc2c_uLkR9XeUlM0gaf-M_6Khg&usqp=CAU" group-title="Entertainment",Kpop TV
+https://livestream.zazerconer.workers.dev/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
 
 
 
