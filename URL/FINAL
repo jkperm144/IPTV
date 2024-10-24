@@ -280,12 +280,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfo
 #EXTINF:-1 group-title="Entertainment & Lifestyle" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/entertainment-2.png",ENT
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/vision-prime.png" group-title="Entertainment & Lifestyle", Vision Prime
-https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
-
 #EXTINF:0 tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/lifetime.png" group-title="Entertainment & Lifestyle",Lifetime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bd8efd4840c37f50f8a053f92e9b015:7f8b3b508bb394919dab1b6e91e7bacf
@@ -376,10 +370,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Logo-Citra-Dangdut.png/revision/latest?cb=20190513103951" group-title="Entertainment & Lifestyle",Citra Dangdut
 https://cdn09jtedge.indihometv.com/joss/130/citradangdut/index.m3u8?c
-
-
-
-
 
 
 
@@ -855,7 +845,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChann
 #EXTINF:-1 group-title="MUSIC" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/MUSIK%20INDIA.jfif", MUSIC INDIA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Kpoptv.KR" tvg-name="KPOPTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBztGbjCkUkc2c_uLkR9XeUlM0gaf-M_6Khg&usqp=CAU" group-title="Entertainment",Kpop TV
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Kpoptv.KR" tvg-name="KPOPTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBztGbjCkUkc2c_uLkR9XeUlM0gaf-M_6Khg&usqp=CAU" group-title="MUSIC",Kpop TV
 https://livestream.zazerconer.workers.dev/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
 
 
