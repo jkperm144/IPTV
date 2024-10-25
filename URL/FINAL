@@ -236,7 +236,15 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?check
 
 
 
+#EXTINF:-1 group-title="Entertainment & Lifestyle" tvg-id="foxeast.us" tvg-logo="https://i.imgur.com/hvKVSB6.png",FOX
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://webhdrunns.mizhls.ru/lb/premium54/index.m3u8|Origin=https://claplivehdplay.ru
 
+#EXTINF:-1 group-title="Entertainment & Lifestyle" tvg-id="dunialain.id" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png",Dunia Lain 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
+https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
