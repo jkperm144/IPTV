@@ -1019,7 +1019,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak_dash/manifest.mpd
 
 #EXTINF:-1 group-logo="https://i.pinimg.com/236x/c2/dd/3a/c2dd3ac14318c9fa5c344ddca01c910d.jpg" group-title="KIDS"
-#EXTINF:0 tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="Kids",KARTUN SIS
+#EXTINF:0 tvg-logo="https://i.pinimg.com/236x/7d/bc/fe/7dbcfead20663fd3c0d3dc875dea4661.jpg" group-title="KIDS",KARTUN SIS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h227/02.m3u8
 
