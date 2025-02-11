@@ -997,6 +997,15 @@ https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 
 
 
+
+
+
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",Astro Premier League
+http://15.235.144.67:35461/654321/123456/11243
+
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYoldvZA2b7EAOQuwIVCHp53EH1eocLEJxEg&s",Astro Premier League 2
+http://15.235.144.67:35461/654321/123456/971
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Sports",Indosiar (BRI liga 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
