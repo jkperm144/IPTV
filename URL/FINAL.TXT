@@ -927,11 +927,6 @@ http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.pinimg.com/236x/27/b4/ad/27b4adcdbfb1ee18ad172012a3d0e2c6.jpg",Zerouno TV
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.pinimg.com/236x/27/b4/ad/27b4adcdbfb1ee18ad172012a3d0e2c6.jpg",Матур ТВ
-https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://i.pinimg.com/236x/27/b4/ad/27b4adcdbfb1ee18ad172012a3d0e2c6.jpg".png",Шансон ТВ
-https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 
 
 
