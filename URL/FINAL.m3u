@@ -780,7 +780,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 
 
 
-#EXTINF:-1 group-title="MUSIK" tvg-logo="https://github.com/jkperm144/IPTV/blob/main/LOGO/NOW%2070.png",NOW 70
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/NOW%2070.png",NOW 70
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIK" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/NOW%2080.jpg",NOW 80
