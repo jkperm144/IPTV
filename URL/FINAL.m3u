@@ -403,7 +403,7 @@ https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
 
 
 
-EXTINF:-1 tvg-id="dummy" tvg-logo="https://i.ytimg.com/vi/Cx5itIGo9fQ/maxresdefault.jpg" group-title="Entertainment & Lifestyle",Cooking TV
+#EXTINF:-1 tvg-id="dummy" tvg-logo="https://i.ytimg.com/vi/Cx5itIGo9fQ/maxresdefault.jpg" group-title="Entertainment & Lifestyle",Cooking TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
