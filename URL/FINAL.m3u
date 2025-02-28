@@ -890,7 +890,8 @@ https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 ========== Sports==========
 
 
-
+#EXTINF:0 tvg-country="ID" tvg-logo="https://id.wikipedia.org/wiki/TVRI_Sport#/media/Berkas:TVRI_Sport_2022.svg" group-title="Sports",TVRI Sport 2
+https://klik.tvri.go.id/detailchannel/TVRI_CH_03
 
 #EXTINF:0 tvg-country="ID" tvg-logo="https://id.wikipedia.org/wiki/TVRI_Sport#/media/Berkas:TVRI_Sport_2022.svg" group-title="Sports",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8?checkedby:iptvcat.com
