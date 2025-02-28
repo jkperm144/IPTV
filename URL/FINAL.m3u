@@ -4,9 +4,6 @@
 
 
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca65af90adc5e3ddb180e16426bb67da:b6f87a3a128dbd75ead036f596edeae7
 #EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/c57573a6/f784_r32.jpg" group-title="Indonesia Channels",TVRI Nasional
 https://d1abp075u76pbq.cloudfront.net/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
