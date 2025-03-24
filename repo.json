@@ -1,8 +1,0 @@
-{
-    "name": "Hexated Repo",
-    "description": "Hexated Repository",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://codeberg.org/M007/cloudstream-extensions-hexated/raw/branch/builds/plugins.json"
-    ]
-  }
