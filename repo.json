@@ -1,0 +1,8 @@
+{
+    "name": "Hexated Repo",
+    "description": "Hexated Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/refs/heads/builds/plugins.json"
+    ]
+  }
