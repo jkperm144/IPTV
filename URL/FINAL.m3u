@@ -5,7 +5,7 @@
 
 
 
-#EXTINF: -1 tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemtYCWLVwviFytMJCOfCIE-iWXlB-IRvfJ0YiOfbtz0rQ.png" group-title="Entertaiment", INSERT
+#EXTINF: -1 tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemtYCWLVwviFytMJCOfCIE-iWXlB-IRvfJ0YiOfbtz0rQ.png" group-title="Indonesia Channels", INSERT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=696e7365727430303030303030303030:13c460676bc323f6b567493aadee2f64
 https://cdn08jtedge.indihometv.com/dassdvr/130/insert/manifest.mpd
