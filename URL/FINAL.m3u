@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTM3U url-tvg="https://www.open-epg.com/generate/hcC4NVHK97.xml.gz"
+#EXTM3U url-tvg="https://www.open-epg.com/generate/hcC4NVHK97.xml.gz" "https://www.open-epg.com/files/indonesia1.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
 
 ============ Indonesia Channels ===============
