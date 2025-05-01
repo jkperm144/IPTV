@@ -642,7 +642,8 @@ https://insighttv-samsung-us.amagi.tv/playlist.m3u8
 
 <================ Korean Channels ===================>
 
-
+#EXTINF:-1 group-title="Korean Channels"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_kplus_ver2.png",KPLUS
+https://streaming.indihometv.com/atm/DASH/kplus/manifest.mpd
 
 #EXTINF:-1 group-title="Korean Channels" tvg-id="ONE.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/3ad70848/b686_r32.jpg",ONE
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
