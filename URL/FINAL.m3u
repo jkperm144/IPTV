@@ -495,19 +495,19 @@ https://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/Nat%20Geo%20Wild.png" group-title="Knowledge & Documentary" ,WILD (1)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/Nat%20Geo%20Wild.png" group-title="Knowledge & Documentary",WILD (1)
 http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/999459
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/Nat%20Geo%20Wild.png" group-title="Knowledge & Documentary" ,WILD (2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/Nat%20Geo%20Wild.png" group-title="Knowledge & Documentary",WILD (2)
 http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1001437
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/Nat%20Geo%20Wild.png" group-title="Knowledge & Documentary" ,Nat Geo WILD  (1)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/Nat%20Geo%20Wild.png" group-title="Knowledge & Documentary",Nat Geo WILD  (1)
 http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1009238
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/Nat%20Geo%20Wild.png" group-title="Knowledge & Documentary" ,Nat Geo WILD  (2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/Nat%20Geo%20Wild.png" group-title="Knowledge & Documentary",Nat Geo WILD  (2)
 http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1017559
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/Nat%20Geo%20Wild.png" group-title="Knowledge & Documentary" ,Nat Geo WILD  (3)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/Nat%20Geo%20Wild.png" group-title="Knowledge & Documentary",Nat Geo WILD  (3)
 http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1017560
 
 #EXTVLCOPT:http-referrer=https://visionplustv.id//
