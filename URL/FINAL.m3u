@@ -498,12 +498,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/NAT%20GEO%20WILD.jpg" group-title="Knowledge & Documentary",Nat Geo WILD
 http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1009238
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/NAT%20GEO%20WILD.jpg" group-title="Knowledge & Documentary",Nat Geo WILD
-http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1017559
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/NAT%20GEO%20WILD.jpg" group-title="Knowledge & Documentary",Nat Geo WILD
-http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1017560
-
 #EXTVLCOPT:http-referrer=https://visionplustv.id//
 #EXTINF:-1 tvg-id="BBCEarth.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/018/50018-SNAPSHOT-l.png" group-title="Knowledge & Documentary",BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
