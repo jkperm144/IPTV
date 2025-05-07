@@ -682,7 +682,8 @@ http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1017560
 http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1018271
 #EXTINF:-1,ES: Nat Geo Wild HD 12
 http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1018272
-
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=10260000,BANDWIDTH=12820000,AUDIO="aac",SUBTITLES="subs",RESOLUTION=1920x1080,FRAME-RATE=25.000,CODECS="avc1.640028"
+http://stream02.vnet.am/NatGeoWild/tracks-v1a2/mono.m3u8
 
 
 
