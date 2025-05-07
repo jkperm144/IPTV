@@ -503,17 +503,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
 <================ Knowledge & Documentary ==========================>
 
 
-#EXTINF:-1 tvg-country="PL" tvg-logo="" group-title="Knowledge & Documentary",National Geographic Wild (1080p)
-http://185.236.229.62:9981/play/a05z?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-country="PL" tvg-logo="" group-title="Knowledge & Documentary",National Geographic Wild (1080p)
-http://109.233.89.166/National_Geographic_Wild_HD/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Knowledge & Documentary",National Geographic Wild
-http://stream02.vnet.am/NatGeoWild/mono.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-country="JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Knowledge & Documentary",National Geographic Japan (1080p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.pinimg.com/736x/3f/c0/49/3fc04924f2a1832f252977405ac349ad.jpg" group-title="Knowledge & Documentary",National Geographic
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176654.m3u8
