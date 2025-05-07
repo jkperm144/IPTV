@@ -495,8 +495,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/NAT%20GEO%20WILD.jpg" group-title="Knowledge & Documentary",Nat Geo WILD
-http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1009238
+http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1011375
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/NAT%20GEO%20WILD.jpg" group-title="Knowledge & Documentary",Nat Geo WILD
+http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1017560
 
 #EXTVLCOPT:http-referrer=https://visionplustv.id//
 #EXTINF:-1 tvg-id="BBCEarth.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/018/50018-SNAPSHOT-l.png" group-title="Knowledge & Documentary",BBC Earth
@@ -656,32 +660,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;userid
 https://op-group1-swiftservehd-1.dens.tv/h/h21/01.m3u8
 
 
-
-
-#EXTINF:-1,US: NAT GEO WILD 1
-http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/999459
-#EXTINF:-1,UK: Nat Geo Wild 2
-http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1001437
-#EXTINF:-1,AF: Nat Geo WILD 3
-http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1008609
-#EXTINF:-1,AR: OSN Nat Geo WILD  HD 4
-http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1009238
-#EXTINF:-1,AR: OSN Nat Geo WILD HD 5
-http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1009239
-#EXTINF:-1,GR: Nat Geo Wild HD 6
-http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1011157
-#EXTINF:-1,IT: Nat Geo Wild HD 7
-http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1011375
-#EXTINF:-1,MX: Nat Geo Wild 8
-http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1017285
-#EXTINF:-1,PT: Nat Geo Wild FHD 9
-http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1017559
-#EXTINF:-1,PT: Nat Geo Wild HD 10
-http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1017560
-#EXTINF:-1,ES: Nat Geo Wild FHD 11
-http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1018271
-#EXTINF:-1,ES: Nat Geo Wild HD 12
-http://stream02.vnet.am/NatGeoWild/tracks-v1a2/mono.m3u8
 
 
 
