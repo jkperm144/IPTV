@@ -139,7 +139,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9Dvz4ScG4EdwbwImxWO40VSgfQWmUNGEYHqIvKLBr7jXC9Q7ySyD8gcG5mIvc39WiH1oMWPzB5WYpy9MWA-M8A7TfJ3dAe95TsKXhDhsoAj0XdvM9gkGzh-TO7Y_ZT9MCZ_3tKilhSrCQ0Xz4s9EhYnPGmc5XdLcG2JNrMfV5KcjVVsh_v9315vF_aA/s1600/jawapostv%20%281%29%20%281%29.jpg",Jawa Pos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="6" tvg-logo="https://www.dens.tv/images/channel-logo/6.jpg" group-title="Indonesia Channels", Metro TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -163,7 +162,6 @@ http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&amp;useri
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1 tvg-id="Moji" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="Indonesia Channels", MOJI TV
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest_w660226757_qRFZS.mpd
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -317,7 +315,6 @@ https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
 #EXTINF:-1 tvg-country="US" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/TASTEMADE.png" group-title="Entertainment & Lifestyle",Tastemade
 https://tastemade-xumo.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
-
 #EXTINF:-1 tvg-country="US" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/BBC%20FOOD.png" group-title="Entertainment & Lifestyle",BBC Food
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c628f2e9-ff30-4bd0-9ff6-99fb1649f628&serverSideAds=false&checkedby:iptvcat.com
 
@@ -465,7 +462,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg" group-title="Knowledge & Documentary",National Geographic Wild
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176653.m3u8
 
-
 #EXTVLCOPT:http-referrer=https://visionplustv.id//
 #EXTINF:-1 tvg-id="BBCEarth.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/018/50018-SNAPSHOT-l.png" group-title="Knowledge & Documentary",BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -602,6 +598,8 @@ https://insighttv-samsung-us.amagi.tv/playlist.m3u8
 
 <================ Korean Channels ===================>
 
+
+
 #EXTINF:-1 group-title="Korean Channels"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_kplus_ver2.png",KPLUS
 https://streaming.indihometv.com/atm/DASH/kplus/manifest.mpd
 
@@ -622,35 +620,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="tvN Movies HD - [Channel 415].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="Korean Channels",TVN movies HD
 https://op-group1-swiftservehd-1.dens.tv/h/h21/01.m3u8
-
-
-
-
-
-#EXTINF:-1,US: NAT GEO WILD 1
-http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/999459
-#EXTINF:-1,UK: Nat Geo Wild 2
-http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1001437
-#EXTINF:-1,AF: Nat Geo WILD 3
-http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1008609
-#EXTINF:-1,AR: OSN Nat Geo WILD  HD 4
-http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1009238
-#EXTINF:-1,AR: OSN Nat Geo WILD HD 5
-http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1009239
-#EXTINF:-1,GR: Nat Geo Wild HD 6
-http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1011157
-#EXTINF:-1,IT: Nat Geo Wild HD 7
-http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1011375
-#EXTINF:-1,MX: Nat Geo Wild 8
-http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1017285
-#EXTINF:-1,PT: Nat Geo Wild FHD 9
-http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1017559
-#EXTINF:-1,PT: Nat Geo Wild HD 10
-http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1017560
-#EXTINF:-1,ES: Nat Geo Wild FHD 11
-http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1018271
-#EXTINF:-1,ES: Nat Geo Wild HD 12
-http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1018272
 
 
 
