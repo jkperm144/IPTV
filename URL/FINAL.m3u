@@ -5,6 +5,37 @@
 
 
 
+
+
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="Indonesia Channels",Trans7 HD
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w365876275_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBCh67zEpVMHxLj6kU6QB_JiKfvomp28jV2Q&usqp=CAU" group-title="Indonesia Channels",BTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSul436uCmHMIpge6PzLn_kyCWYGBs9p2u5CGCrSRBkuPCvIh4QRyxdUECP&s=10", GTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEV5AZmkgua14n6iicfAoE4rBMOX41S1gGBQ&usqp=CAU" group-title="Indonesia Channels",RCTI
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
+
+
 #EXTINF:-1 tvg-id="MDTV.id" group-title="Indonesia Channels" tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/512px-MDTV_logo.svg.png",MDTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -12,18 +43,8 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="GTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="Indonesia Channels",GTV
-https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png",iNews
 https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="" group-title="Indonesia Channels",RCTI HD
-https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="IDX.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -35,15 +56,6 @@ https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="MNCNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/026/50026-SNAPSHOT-l.png",SindoNews
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="Indonesia Channels",Trans7 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="Indonesia Channels",TV Kesehatan
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/mnctv.png" group-title="Indonesia Channels",MNCTV
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -127,11 +139,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9Dvz4ScG4EdwbwImxWO40VSgfQWmUNGEYHqIvKLBr7jXC9Q7ySyD8gcG5mIvc39WiH1oMWPzB5WYpy9MWA-M8A7TfJ3dAe95TsKXhDhsoAj0XdvM9gkGzh-TO7Y_ZT9MCZ_3tKilhSrCQ0Xz4s9EhYnPGmc5XdLcG2JNrMfV5KcjVVsh_v9315vF_aA/s1600/jawapostv%20%281%29%20%281%29.jpg",Jawa Pos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
-#EXTINF:-1 group-title="Indonesia Channels" tvg-id="IDX - [Channel 436].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b7/IDTV.png",IDTV
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://www.dens.tv/images/channel-logo/6.jpg" group-title="Indonesia Channels", Metro TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -157,9 +164,6 @@ http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&amp;useri
 #EXTINF:-1 tvg-id="Moji" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="Indonesia Channels", MOJI TV
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest_w660226757_qRFZS.mpd
 
-#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" group-title="Indonesia Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/244px-BTV_%28Indonesia%29_logo.svg.png", BTV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -461,8 +465,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg" group-title="Knowledge & Documentary",National Geographic Wild
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176653.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/NAT%20GEO%20WILD.jpg" group-title="Knowledge & Documentary",Nat Geo WILD FHD
-http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1017560
 
 #EXTVLCOPT:http-referrer=https://visionplustv.id//
 #EXTINF:-1 tvg-id="BBCEarth.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/018/50018-SNAPSHOT-l.png" group-title="Knowledge & Documentary",BBC Earth
@@ -625,6 +627,30 @@ https://op-group1-swiftservehd-1.dens.tv/h/h21/01.m3u8
 
 
 
+#EXTINF:-1,US: NAT GEO WILD 1
+http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/999459
+#EXTINF:-1,UK: Nat Geo Wild 2
+http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1001437
+#EXTINF:-1,AF: Nat Geo WILD 3
+http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1008609
+#EXTINF:-1,AR: OSN Nat Geo WILD  HD 4
+http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1009238
+#EXTINF:-1,AR: OSN Nat Geo WILD HD 5
+http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1009239
+#EXTINF:-1,GR: Nat Geo Wild HD 6
+http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1011157
+#EXTINF:-1,IT: Nat Geo Wild HD 7
+http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1011375
+#EXTINF:-1,MX: Nat Geo Wild 8
+http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1017285
+#EXTINF:-1,PT: Nat Geo Wild FHD 9
+http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1017559
+#EXTINF:-1,PT: Nat Geo Wild HD 10
+http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1017560
+#EXTINF:-1,ES: Nat Geo Wild FHD 11
+http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1018271
+#EXTINF:-1,ES: Nat Geo Wild HD 12
+http://blazetv.link:8080/nurselyndell@yahoo.com/8222969443/1018272
 
 
 
