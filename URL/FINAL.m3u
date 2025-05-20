@@ -6,6 +6,20 @@
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="Indonesia Channels" tvg-id="MNCNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/026/50026-SNAPSHOT-l.png",SindoNews
+http://202.147.193.244/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=4
+#EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png",iNews
+https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="Indonesia Channels",Trans7 HD
@@ -35,27 +49,16 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
 
-
 #EXTINF:-1 tvg-id="MDTV.id" group-title="Indonesia Channels" tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/512px-MDTV_logo.svg.png",MDTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png",iNews
-https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="IDX.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
 https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="Indonesia Channels" tvg-id="MNCNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/026/50026-SNAPSHOT-l.png",SindoNews
-https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/mnctv.png" group-title="Indonesia Channels",MNCTV
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -163,15 +166,6 @@ http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&amp;useri
 #EXTINF:-1 tvg-id="Moji" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="Indonesia Channels", MOJI TV
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest_w660226757_qRFZS.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.11 (Linux;Android 9) ExoPlayerLib/2.9.6
-#https://cdn09jtedge.indihometv.com/joss/134/idtv/index.m3u8?c
-
 
 
 
@@ -181,6 +175,25 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest_w660226757_qRFZ
 
 
 
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTINF:-1 group-title="Premium Movies" tvg-id="GALAXY" tvg-url="https://bit.ly/IndonesiaEpgG" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png",Galaxy
+http://202.147.193.244/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTINF:-1 group-title="Premium Movies" tvg-id="GALAXYPremium" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Galaxy Premium
+http://202.147.193.244/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=51
+#EXTINF:-1 tvg-id="AXN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/003/50003-SNAPSHOT-l.png" group-title="Premium Movies",AXN
+https://fta2-cdn-flr.visionplus.id/out/v1/6c4cc0ea7bd2454eb9a42ee7b6da9c28/index.mpd
 
 
 
@@ -193,7 +206,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest_w660226757_qRFZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/hbohits.png" group-title="🎬HBO MOVIE ",HBO Hits
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -204,7 +216,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/hbofam.png" group-title="🎬HBO MOVIE ",HBO Family
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -214,7 +225,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fb
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/hbosig.png" group-title="🎬HBO MOVIE ",HBO Signature
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -235,24 +245,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-
-
-
-
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="Premium Movies" tvg-id="GALAXYPremium" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Galaxy Premium
-https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="Premium Movies" tvg-id="GALAXY" tvg-url="https://bit.ly/IndonesiaEpgG" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png",Galaxy
-https://dsgtq5sngxkde.cloudfront.net/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="AXN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/003/50003-SNAPSHOT-l.png" group-title="Premium Movies",AXN
-https://dsgtq5sngxkde.cloudfront.net/live/eds/AXN/sa_dash/AXN.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/imc.png" group-title="Premium Movies",IMC in
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -361,33 +353,53 @@ https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
 
 
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=87
+#EXTINF:-1 tvg-id="VisionPrime.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/005/50005-SNAPSHOT-l.png" group-title="Entertainment & Lifestyle",Vision Prime
+https://fta4-cdn-flr.visionplus.id/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=71
+#EXTINF:-1 tvg-id="OKTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/534/172534-LOGO-m.png" group-title="Entertainment & Lifestyle",Food Travel
+https://fta1-cdn-flr.visionplus.id/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=72
+#EXTINF:-1 tvg-id="Ent.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/b/b1/Ent_%282020%29.png/revision/latest?cb=20210401065932" group-title="Entertainment & Lifestyle",Entertainment
+https://fta2-cdn-flr.visionplus.id/out/v1/a90cb773466446b08595007bab12b920/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=88
+#EXTINF:-1 tvg-id="Celebrities TV - [Channel 96].id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://e7.pngegg.com/pngimages/789/35/png-clipart-logo-celebrity-graphic-design-brand-font-cat-victorious-purple-television.png" group-title="Entertainment & Lifestyle",CelebritiesTV
+https://fta3-cdn-flr.visionplus.id/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
+
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTINF:-1 tvg-id="LifestyleandFashion.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hanacaraka-tv-id.png" group-title="Entertainment & Lifestyle",Hanacaraka TV
+http://202.147.193.244/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd
 
 #EXTINF:-1 tvg-country="US" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/TASTEMADE.png" group-title="Entertainment & Lifestyle",Tastemade
 https://tastemade-xumo.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-country="US" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/BBC%20FOOD.png" group-title="Entertainment & Lifestyle",BBC Food
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c628f2e9-ff30-4bd0-9ff6-99fb1649f628&serverSideAds=false&checkedby:iptvcat.com
-
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="VisionPrime.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/005/50005-SNAPSHOT-l.png" group-title="Entertainment & Lifestyle",Vision Prime
-https://dsgtq5sngxkde.cloudfront.net/live/eds/VisionPrime/sa_dash/VisionPrime.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="LifestyleandFashion.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hanacaraka-tv-id.png" group-title="Entertainment & Lifestyle",Hanacaraka TV
-https://dsgtq5sngxkde.cloudfront.net/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd
-
-#EXTVLCOPT:http-referrer=https://visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="OKTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/534/172534-LOGO-m.png" group-title="Entertainment & Lifestyle",Food Travel
-https://dsgtq5sngxkde.cloudfront.net/live/eds/OKTVnow/sa_dash/OKTVnow.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Celebrities TV - [Channel 96].id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://e7.pngegg.com/pngimages/789/35/png-clipart-logo-celebrity-graphic-design-brand-font-cat-victorious-purple-television.png" group-title="Entertainment & Lifestyle",Celebrities TV
-https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCInfotainment/sa_dash/MNCInfotainment.mpd
 
 #EXTINF:-1 tvg-id="Lifetime.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/004/50004-SNAPSHOT-l.png" group-title="Entertainment & Lifestyle",Lifetime
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -508,34 +520,32 @@ https://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
 
 
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=102
+#EXTINF:-1 tvg-id="BBCEarth.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/018/50018-SNAPSHOT-l.png" group-title="Knowledge & Documentary",BBC Earth
+https://fta1-cdn-flr.visionplus.id/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=103
+#EXTINF:-1 tvg-id="GlobalTrekker.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/824/49824-SNAPSHOT-l.png" group-title="Knowledge & Documentary",Global Trekker
+https://fta2-cdn-flr.visionplus.id/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg" group-title="Knowledge & Documentary",National Geographic Wild
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176653.m3u8
-
-#EXTVLCOPT:http-referrer=https://visionplustv.id//
-#EXTINF:-1 tvg-id="BBCEarth.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/018/50018-SNAPSHOT-l.png" group-title="Knowledge & Documentary",BBC Earth
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://dsgtq5sngxkde.cloudfront.net/live/eds/BBCEarth-HD/sa_dash/BBCEarth-HD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="GlobalTrekker.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/824/49824-SNAPSHOT-l.png" group-title="Knowledge & Documentary",Global Trekker
-https://dsgtq5sngxkde.cloudfront.net/live/eds/Globaltrekker/sa_dash/Globaltrekker.mpd
 
 #EXTINF:-1 tvg-id="History.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/022/50022-SNAPSHOT-l.png" group-title="Knowledge & Documentary",History HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
 https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCPQ_RJkJta2c4h38-UFBDG1gT1CtqBJY2JQ&s" group-title="Knowledge & Documentary", TECHSTROM
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac43c0e/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/lovenature.png" group-title="Knowledge & Documentary",Love Nature FHD
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
